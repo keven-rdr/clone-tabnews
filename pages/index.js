@@ -6,7 +6,7 @@ function Home(){
 
     const handleSubmit = (e) =>{
         e.preventDefault();
-        setMensagem("Perfeito! Estamos analisando os seus dados. Logo recebera o resultado");
+        setMensagem("Perfeito! Estamos analisando os seus dados. Logo recebera o resultado muito satisfatirio..........");
     }
 
     return (
