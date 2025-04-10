@@ -1,2 +1,3 @@
 # clone-tabnews
-Estudo de um protejo para desenvolvimento de um sistema 
+
+Estudo de um protejo para desenvolvimento de um sistema
