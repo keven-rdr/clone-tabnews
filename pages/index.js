@@ -54,8 +54,5 @@ function Home() {
     </>
   );
 }
-function teste() {
-  console.log("identaçao errada");
-}
 
 export default Home;
